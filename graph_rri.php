@@ -1,8 +1,7 @@
 <?
-
 $db_host ="localhost";
-$db_user="server";
-$db_passwd = "godqhr1533";
+$db_user="aptp";
+$db_passwd = "aptp1100";
 $db_name="aptp";
 
 $conn = mysqli_connect($db_host, $db_user, $db_passwd, $db_name);
