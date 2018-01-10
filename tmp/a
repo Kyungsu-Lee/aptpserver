@@ -1,0 +1,142 @@
+.:
+total 48
+drwxrwxrwx 4 server server 4096 10월  7 02:58 .
+drwxrwxrwx 3 server server 4096  9월 25 00:34 ..
+-rw-rw-r-- 1 server server    0 10월  7 02:58 a
+drwxrwxrwx 5 server server 4096 10월  7 02:56 app
+-rwxrwxrwx 1 server server 6898  9월 25 01:18 aptp.sql
+-rwxrwxrwx 1 server server 6148  9월 17 19:37 .DS_Store
+-rwxrwxrwx 1 server server  116  9월 25 02:22 .env
+-rw-rw-r-- 1 server server    6  9월 25 02:14 hello.html
+-rwxrwxrwx 1 server server  560  6월  8 20:12 .htaccess
+-rwxrwxrwx 1 server server 1290  9월 25 02:25 index.php
+drwxrwxrwx 5 server server 4096  9월 13 20:44 lib
+
+./app:
+total 36
+drwxrwxrwx 5 server server 4096 10월  7 02:56 .
+drwxrwxrwx 4 server server 4096 10월  7 02:58 ..
+drwxrwxrwx 5 server server 4096  9월 13 20:44 assets
+drwxrwxrwx 3 server server 4096 10월  7 02:49 controllers
+-rwxrwxrwx 1 server server 6148  9월 17 19:37 .DS_Store
+-rwxrwxrwx 1 server server   14  6월  8 20:12 .htaccess
+-rw-rw-r-- 1 server server    6  9월 25 02:13 index.html
+drwxrwxrwx 3 server server 4096 10월  7 02:49 views
+
+./app/assets:
+total 32
+drwxrwxrwx 5 server server 4096  9월 13 20:44 .
+drwxrwxrwx 5 server server 4096 10월  7 02:56 ..
+-rwxrwxrwx 1 server server 6148  9월 13 20:44 .DS_Store
+-rwxrwxrwx 1 server server   15  6월  8 20:12 .htaccess
+drwxrwxrwx 2 server server 4096  6월  8 20:12 images
+drwxrwxrwx 2 server server 4096  6월  8 20:12 scripts
+drwxrwxrwx 2 server server 4096  6월  8 20:12 styles
+
+./app/assets/images:
+total 8
+drwxrwxrwx 2 server server 4096  6월  8 20:12 .
+drwxrwxrwx 5 server server 4096  9월 13 20:44 ..
+
+./app/assets/scripts:
+total 8
+drwxrwxrwx 2 server server 4096  6월  8 20:12 .
+drwxrwxrwx 5 server server 4096  9월 13 20:44 ..
+
+./app/assets/styles:
+total 8
+drwxrwxrwx 2 server server 4096  6월  8 20:12 .
+drwxrwxrwx 5 server server 4096  9월 13 20:44 ..
+
+./app/controllers:
+total 16
+drwxrwxrwx 3 server server 4096 10월  7 02:49 .
+drwxrwxrwx 5 server server 4096 10월  7 02:56 ..
+drwxrwxrwx 3 server server 4096  6월  8 20:12 api
+-rwxrwxrwx 1 server server    6  9월 25 02:13 index.php
+
+./app/controllers/api:
+total 12
+drwxrwxrwx 3 server server 4096  6월  8 20:12 .
+drwxrwxrwx 3 server server 4096 10월  7 02:49 ..
+drwxrwxrwx 4 server server 4096  6월  8 20:12 v1
+
+./app/controllers/api/v1:
+total 16
+drwxrwxrwx 4 server server 4096  6월  8 20:12 .
+drwxrwxrwx 3 server server 4096  6월  8 20:12 ..
+drwxrwxrwx 2 server server 4096 10월  7 02:47 data
+drwxrwxrwx 2 server server 4096 10월  7 02:56 user
+
+./app/controllers/api/v1/data:
+total 12
+drwxrwxrwx 2 server server 4096 10월  7 02:47 .
+drwxrwxrwx 4 server server 4096  6월  8 20:12 ..
+-rwxrwxrwx 1 server server 2122  6월  8 20:12 sync.php
+
+./app/controllers/api/v1/user:
+total 32
+drwxrwxrwx 2 server server  4096 10월  7 02:56 .
+drwxrwxrwx 4 server server  4096  6월  8 20:12 ..
+-rwxrwxrwx 1 server server   692 10월  7 02:55 getinfo.php
+-rw-r--r-- 1 server server 12288 10월  7 02:55 .getinfo.php.swp
+-rwxrwxrwx 1 server server  1551 10월  7 02:09 signin.php
+-rwxrwxrwx 1 server server   428  6월  8 20:12 signup.php
+
+./app/views:
+total 24
+drwxrwxrwx 3 server server 4096 10월  7 02:49 .
+drwxrwxrwx 5 server server 4096 10월  7 02:56 ..
+-rwxrwxrwx 1 server server 6148  9월 13 20:41 .DS_Store
+-rwxrwxrwx 1 server server   12  6월  8 20:12 index.html
+drwxrwxrwx 2 server server 4096 10월  7 02:49 layouts
+
+./app/views/layouts:
+total 12
+drwxrwxrwx 2 server server 4096 10월  7 02:49 .
+drwxrwxrwx 3 server server 4096 10월  7 02:49 ..
+-rwxrwxrwx 1 server server   15  6월  8 20:12 default.html
+
+./lib:
+total 32
+drwxrwxrwx 5 server server 4096  9월 13 20:44 .
+drwxrwxrwx 4 server server 4096 10월  7 02:58 ..
+drwxrwxrwx 3 server server 4096 10월  7 02:55 classes
+-rwxrwxrwx 1 server server 6148  9월 14 02:48 .DS_Store
+-rwxrwxrwx 1 server server   14  6월  8 20:12 .htaccess
+drwxrwxrwx 2 server server 4096 10월  7 02:48 include
+drwxrwxrwx 2 server server 4096  6월  8 20:12 modules
+
+./lib/classes:
+total 48
+drwxrwxrwx 3 server server 4096 10월  7 02:55 .
+drwxrwxrwx 5 server server 4096  9월 13 20:44 ..
+-rwxrwxrwx 1 server server 1228  6월  8 20:12 AccessToken.php
+-rwxrwxrwx 1 server server  225  6월  8 20:12 ACC.php
+-rwxrwxrwx 1 server server  217  6월  8 20:12 BPM.php
+drwxrwxrwx 2 server server 4096  9월 25 03:14 DB
+-rwxrwxrwx 1 server server  743 10월  7 01:08 Digest.php
+-rwxrwxrwx 1 server server    1  6월  8 20:12 .gitignore
+-rwxrwxrwx 1 server server 2287  6월  8 20:12 Model.php
+-rwxrwxrwx 1 server server  217  6월  8 20:12 RRI.php
+-rwxrwxrwx 1 server server 1468  6월  8 20:12 User.php
+-rwxrwxrwx 1 server server  221  6월  8 20:12 Utils.php
+
+./lib/classes/DB:
+total 16
+drwxrwxrwx 2 server server 4096  9월 25 03:14 .
+drwxrwxrwx 3 server server 4096 10월  7 02:55 ..
+-rwxrwxrwx 1 server server 5783  6월  8 20:12 Mysql.php
+
+./lib/include:
+total 16
+drwxrwxrwx 2 server server 4096 10월  7 02:48 .
+drwxrwxrwx 5 server server 4096  9월 13 20:44 ..
+-rwxrwxrwx 1 server server  286  6월  8 20:12 class_loader.php
+-rwxrwxrwx 1 server server 1021  6월  8 20:12 core.php
+
+./lib/modules:
+total 8
+drwxrwxrwx 2 server server 4096  6월  8 20:12 .
+drwxrwxrwx 5 server server 4096  9월 13 20:44 ..
+-rwxrwxrwx 1 server server    0  6월  8 20:12 .gitignore
